@@ -1,3 +1,3 @@
-export { percentage } from './src/percentage';
-export { rem } from './src/rem';
-export { em } from './src/em';
+export * from './src/percentage';
+export * from './src/rem';
+export * from './src/em';
